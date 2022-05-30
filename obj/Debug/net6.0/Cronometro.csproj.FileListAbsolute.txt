@@ -1,0 +1,15 @@
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\ref\Cronometro.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
